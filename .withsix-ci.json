@@ -1,7 +1,8 @@
 {
-	"sourcePath": ".",
+	// "sourcePath": ".", // default
 	"build": {
-		"prefix": "Test_A3",
+		"prefix": "Test_A3_",
+		// "postfix": "", // default
 		"ignore": ["README.md"],
 	}
 }

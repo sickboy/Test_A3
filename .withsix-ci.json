@@ -1,0 +1,7 @@
+{
+	"sourcePath": ".",
+	"build": {
+		"prefix": "Test_A3",
+		"ignore": ["README.md"],
+	}
+}

@@ -1,0 +1,4 @@
+# ARMA gitignore
+
+*.pbo
+*.biprivatekey
